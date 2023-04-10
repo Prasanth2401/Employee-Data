@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "prasanth",
+      "lastName": "raj",
+      "email": "prasanthraj.2401@gmail.com",
+      "dob": "2016-10-03T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Master Degree",
+      "company": "sierra",
+      "experience": 2,
+      "package": 13,
+      "id": 1
+    },
+    {
+      "firstName": "Prasanth",
+      "lastName": "S",
+      "email": "prasanthraj.2401@gmail.com",
+      "dob": "2023-04-09T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Bachelor Degree",
+      "company": "sierra",
+      "experience": 2,
+      "package": 11,
+      "id": 2
+    },
+    {
+      "firstName": "Prasanth",
+      "lastName": "S",
+      "email": "prasanthraj.2401@gmail.com",
+      "dob": "2023-04-02T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Master Degree",
+      "company": "aaaa",
+      "experience": 1,
+      "package": 2,
+      "id": 3
+    },
+    {
+      "firstName": "ssssss",
+      "lastName": "ssssw",
+      "email": "1s3e3@gmail.com",
+      "dob": "2001-03-22T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Bachelor Degree",
+      "company": "hwjwh",
+      "experience": 2,
+      "package": 21,
+      "id": 4
+    },
+    {
+      "firstName": "ghggug",
+      "lastName": "gfgfhgfgf",
+      "email": "fgggggggggggk",
+      "dob": "2023-04-02T18:30:00.000Z",
+      "gender": "Female",
+      "education": "Master Degree",
+      "company": "gggg",
+      "experience": 12,
+      "package": 127,
+      "id": 5
+    },
+    {
+      "firstName": "fddffddsdQQ",
+      "lastName": "QWEQ",
+      "email": "Qsdsddffd",
+      "dob": "2023-04-01T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Bachelor Degree",
+      "company": "ghgghhg",
+      "experience": 2,
+      "package": 4554,
+      "id": 6
+    }
+  ]
+}
