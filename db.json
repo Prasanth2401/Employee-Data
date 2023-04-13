@@ -18,40 +18,16 @@
   },
   "employees": [
     {
-      "firstName": "Rahul",
-      "lastName": "Saran",
-      "email": "rahul.2401@gmail.com",
-      "dob": "2016-10-03T18:30:00.000Z",
-      "gender": "Male",
-      "education": "Master Degree",
-      "company": "capgemini",
-      "experience": 2,
-      "package": 13,
-      "id": 1
-    },
-    {
-      "firstName": "Naveen",
-      "lastName": "Raj",
-      "email": "naveen.2401@gmail.com",
-      "dob": "2023-04-09T18:30:00.000Z",
+      "firstName": "Prasanth",
+      "lastName": "raj",
+      "email": "prasanthraj.2401@gmail.com",
+      "dob": "2001-06-23T18:30:00.000Z",
       "gender": "Male",
       "education": "Bachelor Degree",
-      "company": "sierra",
+      "company": "Google",
       "experience": 2,
-      "package": 11,
-      "id": 2
-    },
-    {
-      "firstName": "Vijay",
-      "lastName": "Kumar",
-      "email": "ajaykumar2gmail.com",
-      "dob": "2023-04-02T18:30:00.000Z",
-      "gender": "Male",
-      "education": "Master Degree",
-      "company": "google",
-      "experience": 1,
-      "package": 11,
-      "id": 4
+      "package": 24,
+      "id": 1
     }
   ]
 }
